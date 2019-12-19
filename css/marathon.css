@@ -1,0 +1,260 @@
+body, object, iframe, h1, h2, h3, h4, h5, h6, blockquote, a, code, em, img, q, small, strong, li, ul, fieldset, form, label, table, tbody, tr, th, td {color: #333; font-size: 14px;   font-family: "Microsoft YaHei" ! important; margin: 0; padding: 0;}
+*{ margin: 0; padding: 0;}
+img{display: inline-block; outline: 0; border: 0;}
+ul li{list-style: none;}
+a{ text-decoration: none; outline: 0;}
+.fl{float: left;}
+.fr{float: right;}
+body {
+    font-family: "Microsoft YaHei" ! important;
+    color:black;
+}
+* {
+    color: #333;
+    font-family: "Microsoft YaHei" ! important;
+
+}
+
+h2,h3,h4 {
+    font-weight: normal;
+}
+
+.clearfix:after {
+    content:"";
+    display: block;
+    height: 0px;
+    clear: both;
+    visibility: hidden;
+
+}
+
+.clearfix {
+    zoom:1;
+}
+
+.bx {
+    width: 1200px;
+    margin:0 auto;
+}
+
+/*头部开始*/
+
+.banner img {
+    width: 100%;
+    height: 100%;
+}
+
+/*内容开始*/
+
+.content {
+    /*background-color: #efeded;*/
+    margin-top: -64px;
+}
+
+/*视频*/
+
+.video {
+    padding-top: 130px;
+}
+
+.video_left img{
+    width: 715px;
+    height: 100%;
+}
+
+.video_right {
+    width: 450px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.video_right .title {
+    color:#28b0e4;
+    font-size: 28px;
+    font-weight:bolder;
+}
+
+.video_right b {
+    width: 450px;
+    height: 2px;
+    background-color: #e6e6e6;
+    display: block;
+    margin-bottom: 27px;
+    margin-top: 10px;
+
+}
+
+.video_right p {
+    /*width: 635px;*/
+    color:#404040;
+    font-size: 18px;
+}
+
+.video_right .more {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.video_right .more a {
+    color:#36b5e6;
+    font-size: 16px;
+
+}
+
+.video_right .more a:hover {
+    color:red;
+}
+
+/*视频结束*/
+
+/*voices*/
+
+.voices {
+    width: 100%;
+    margin-top: 65px;
+}
+
+.voices_title {
+    text-align: center;
+    margin-bottom: 36px;
+}
+
+.voices_paper ul li {
+    height: 293px;
+    width: 580px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0  10px #bfbdbd;
+}
+
+.voices_paper ul{
+    margin-bottom: 44px;
+}
+
+.voices_paper_mather {
+    margin-left: 22px;
+    margin-right: 22px;
+}
+
+.paper_li_top {
+    height: 170px;
+    width: 100%;
+    background-image: url("./../images/marathon20191212_03.png");
+}
+
+.paper_img {
+    width: 117px;
+    height: 102px;
+    margin-left: 33px;
+}
+
+.paper_img img {
+    width: 135px;
+    height: 135px;
+    margin-top: 15px;
+}
+
+.paper_li_bottom {
+    padding: 10px 40px;
+}
+
+.paper_name {
+    margin-left: 45px;
+    margin-top: 59px;
+}
+
+.paper_title {
+    color:#2994df;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.paper_major {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/*voices结束*/
+
+/*photo highlights开始*/
+
+.photo {
+    width: 100%;
+    margin-top: 65px;
+}
+
+.photo_title {
+    text-align: center;
+    margin-bottom: 36px;
+}
+
+.photo_box {
+    position: relative;
+}
+
+.photo_list ul{
+    width: 20000px;
+}
+
+.photo_list {
+    width: 1200px;
+    overflow: hidden;
+
+}
+
+.photo_list ul li {
+    float: left;
+    margin-right: 28px;
+    width: 381px;
+    height: 316px;
+}
+
+.lis a img{
+    width: 381px;
+
+}
+
+.row {
+    position:absolute;
+    top:50%;
+    margin-top: -37px;
+    height: 80px;
+    width: 100%;
+}
+
+.row .row_left {
+    position: absolute;
+    left: -50px;
+}
+
+.row .row_right {
+    position: absolute;
+    right: -50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
